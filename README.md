@@ -5,24 +5,6 @@ It supports basic functionality for Customers, Chefs, and Delivery staff in a co
 
 ---
 
-## 🚀 Features
-
-- 👤 **User Roles**
-  - Register and login as `Customer`
-  - login as , `Chef`, or `DeliveryGuy`
-- 📋 **Customer**
-  - View menu
-  - Place orders
-  - View past orders
-- 👨‍🍳 **Chef**
-  - Add/edit dishes
-  - View menu
-  - View and update order status
-- 🚚 **DeliveryGuy**
-  - View and update order status
-
----
-
 ## 🛠️ Technologies & Concepts
 
 - **Java SE** (Standard Edition)
@@ -36,5 +18,27 @@ It supports basic functionality for Customers, Chefs, and Delivery staff in a co
   - Liskov Substitution Principle
   - Interface Segregation Principle
   - Dependency Inversion Principle
+
+---
+
+## 🚀 Features
+
+- 👤 **User Roles**
+  - Register and login as `Customer`
+  - login as , `Chef`, or `DeliveryGuy`
+- 📋 **Customer**
+  - View menu
+  - Place orders
+  - View past orders
+- 👨‍🍳 **Chef**
+  - Add/edit dishes
+  - View Orders
+  - Update order status
+  - View menu
+
+- 🚚 **DeliveryGuy**
+  - View and update order status
+
+
 
 
